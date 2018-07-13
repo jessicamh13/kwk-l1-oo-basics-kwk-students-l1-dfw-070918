@@ -42,7 +42,7 @@ class Shoe
   end
   
   def cobble
-    return "Your shoe is good as new!"
+    puts "Your shoe is good as new!"
   end
   
 end
